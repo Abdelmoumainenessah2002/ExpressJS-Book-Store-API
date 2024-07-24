@@ -1,0 +1,5 @@
+# node modules installed by npm
+node_modules
+
+# dotenv environment variables file
+.env
